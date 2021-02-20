@@ -10,7 +10,7 @@
 # Between 60% and 69% => Merit 1
 # Over 70% => Distinction
 
-percentage = float(input("Enter the percentage: "))
+percentage = round(float(input("Enter the percentage: ")))
 #print (percentage)
 # be careful with ands and ors
 if percentage < 0 or percentage > 100:
