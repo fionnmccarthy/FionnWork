@@ -5,7 +5,8 @@
 # another tuple with just the summer months (May, June, July), print out the
 # summer months one at a time.
 
-months =("January",
+months = (
+"January",
 "February",
 "March",
 "April",
